@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Voicemail",
+  "base_artist": "Knox",
+  "createdAt": "2025-12-09T03:55:32.767465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Voicemail",
+      "artist": "Poppy",
+      "has_synced": true,
+      "path": "select/01_Voicemail_Poppy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drunk Voicemail",
+      "artist": "Pom Pom Squad",
+      "has_synced": true,
+      "path": "select/02_Drunk_Voicemail_Pom_Pom_Squad.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "voicemail-01",
+      "artist": "lost spaces",
+      "has_synced": false,
+      "path": "select/03_voicemail-01_lost_spaces.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Voicemail",
+      "artist": "LOUD HOUND",
+      "has_synced": false,
+      "path": "select/04_Voicemail_LOUD_HOUND.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Voicemail",
+      "artist": "Cannibal Kids",
+      "has_synced": false,
+      "path": "select/05_Voicemail_Cannibal_Kids.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Voicemail Skit",
+      "artist": "wifisfuneral",
+      "has_synced": false,
+      "path": "select/06_Voicemail_Skit_wifisfuneral.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Voicemail",
+      "artist": "Aj The Rapper",
+      "has_synced": false,
+      "path": "select/07_Voicemail_Aj_The_Rapper.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Voicemail (feat. Kiana Ledé)",
+      "artist": "Khalid feat. Kiana Ledé",
+      "has_synced": true,
+      "path": "select/08_Voicemail_(feat._Kiana_Ledé)_Khalid_feat._Kiana_Ledé.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Voicemail (feat. Kiana Ledé)",
+      "artist": "Khalid, Kiana Ledé",
+      "has_synced": true,
+      "path": "select/09_Voicemail_(feat._Kiana_Ledé)_Khalid,_Kiana_Ledé.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Voicemail for Jill",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/10_Voicemail_for_Jill_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Voicemail",
+      "artist": "Khalid feat. Kiana Ledé",
+      "has_synced": true,
+      "path": "select/11_Voicemail_Khalid_feat._Kiana_Ledé.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Voicemail",
+      "artist": "Antarctigo Vespucci",
+      "has_synced": false,
+      "path": "select/12_Voicemail_Antarctigo_Vespucci.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Voicemail",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/13_Voicemail_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Voicemail - Interlude",
+      "artist": "Bryce Vine",
+      "has_synced": true,
+      "path": "select/14_Voicemail_-_Interlude_Bryce_Vine.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Voicemail (feat. Kiana Ledé)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/15_Voicemail_(feat._Kiana_Ledé)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Voicemail - Intro",
+      "artist": "Mandisa",
+      "has_synced": false,
+      "path": "select/16_Voicemail_-_Intro_Mandisa.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Voicemail",
+      "artist": "Russ",
+      "has_synced": true,
+      "path": "select/17_Voicemail_Russ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Voicemail",
+      "artist": "Knox",
+      "has_synced": false,
+      "path": "select/pl_01_Voicemail_Knox.txt"
+    }
+  ]
+}
